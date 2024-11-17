@@ -1,5 +1,5 @@
 # TIMOrientationAnalysis
-Residue orientation analysis for substrate's residue side chains.
+Residue orientation analysis for substrate's residue side chains when translocating through TIM.
 
 ## Input files
 1. Structure and run input files (.gro, .tpr)
