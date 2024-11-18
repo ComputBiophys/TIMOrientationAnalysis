@@ -11,7 +11,7 @@ Residue orientation analysis for substrate's residue side chains when translocat
 The above dependencies can be installed using Anaconda or any other package manager.
 
 ## Demo
-Use the provided Jupyter Notebook `pub_analyze_residues_orientation.ipynb` to run the analysis interactively.
+Run the analysis script `pub_analyze_residues_orientation.ipynb` in Jupyter Notebook.
 ### Input files
 1. Structure and run input files: `.gro`, `.tpr`
 2. SMD trajectories: `.xtc`
