@@ -8,14 +8,13 @@ Residue orientation analysis for substrate's residue side chains when translocat
 - matplotlib >= 3.7.1
 
 ## Installation
-These python libraries can be installed using Anaconda.
+The above dependencies can be installed using Anaconda or any other package manager.
 
 ## Demo
-Run the analysis script "pub_analyze_residues_orientation.ipynb" in Jupyter Notebook.
+Use the provided Jupyter Notebook `pub_analyze_residues_orientation.ipynb` to run the analysis interactively.
 ### Input files
-1. Structure and run input files (.gro, .tpr)
-2. SMD trajectories (.xtc)
+1. Structure and run input files: `.gro`, `.tpr`
+2. SMD trajectories: `.xtc`
 ### Expected output
-Aftering running the analysis script, you will get a figure for residue orientation distributions, typically in a few minutes.
-
+Running the analysis script will generate a figure illustrating residue orientation distributions. The process typically completes within a few minutes.
 
